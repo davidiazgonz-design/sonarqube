@@ -2,7 +2,7 @@ plugins {
     id 'java'
     id 'jacoco'
     id 'org.sonarqube' version '4.0.0.2929'
-    id 'com.avast.gradle.docker-compose' version '0.14.3'
+    id 'com.avast.gradle.docker-compose' version '0.17.0'
 }
 
 group 'com.tom'
